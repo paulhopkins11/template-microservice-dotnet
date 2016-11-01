@@ -11,7 +11,7 @@ namespace aspnetcoreapp
         {
             app.Run(context =>
             {
-                return context.Response.WriteAsync("Success! The Framework Training template microservices is up and running using ASP.NET Core!");
+                return context.Response.WriteAsync("Success! The Framework Training template microservice is up and running using ASP.NET Core!");
             });
         }
     }

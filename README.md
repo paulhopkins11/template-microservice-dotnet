@@ -21,5 +21,5 @@ How to build and run this microservice
 
    ```
    $ curl http://localhost:5000
-   Success! The Framework Training template microservices is up and running using ASP.NET Core!
+   Success! The Framework Training template microservice is up and running using ASP.NET Core!
    ```
