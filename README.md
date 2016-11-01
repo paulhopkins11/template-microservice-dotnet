@@ -15,7 +15,7 @@ How to build and run this microservice
 2. Run the container
 
    ```
-   $ docker run -p 5000:5000 template-microservice-dotnet
+   $ docker run -dp 5000:5000 template-microservice-dotnet
    ```
 3. Test the micro service
 
