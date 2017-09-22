@@ -1,13 +1,15 @@
-FROM microsoft/dotnet
+FROM microsoft/dotnet:2-sdk
 
 WORKDIR /dotnetapp
 
 # copy and build everything else
-COPY . .
+COPY dotnetapp.csproj /dotnetapp/
+COPY *.cs /dotnetapp/
 
+RUN ls -lat
 EXPOSE 5000/tcp
 ENV ASPNETCORE_URLS http://*:5000
- 
+
 RUN ["dotnet", "restore"]
 RUN ["dotnet", "build"]
   
