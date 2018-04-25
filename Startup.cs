@@ -7,6 +7,11 @@ namespace aspnetcoreapp
 {
     public class Startup
     {
+        public bool Stuff() 
+        {
+            return false;
+        }
+
         public void Configure(IApplicationBuilder app)
         {
             app.Run(context =>

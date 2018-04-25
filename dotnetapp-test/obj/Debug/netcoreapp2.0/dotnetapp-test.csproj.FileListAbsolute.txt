@@ -1,0 +1,14 @@
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/dotnetapp-test.deps.json
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/dotnetapp-test.runtimeconfig.json
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/dotnetapp-test.runtimeconfig.dev.json
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/dotnetapp-test.dll
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/bin/Debug/netcoreapp2.0/dotnetapp-test.pdb
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/obj/Debug/netcoreapp2.0/dotnetapp-test.csprojResolveAssemblyReference.cache
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/obj/Debug/netcoreapp2.0/dotnetapp-test.csproj.CoreCompileInputs.cache
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/obj/Debug/netcoreapp2.0/dotnetapp-test.AssemblyInfoInputs.cache
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/obj/Debug/netcoreapp2.0/dotnetapp-test.AssemblyInfo.cs
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/obj/Debug/netcoreapp2.0/dotnetapp-test.dll
+/Users/paul_hopkins/development/template-microservice-dotnet/dotnetapp-test/obj/Debug/netcoreapp2.0/dotnetapp-test.pdb

@@ -6,7 +6,6 @@ WORKDIR /dotnetapp
 COPY dotnetapp.csproj /dotnetapp/
 COPY *.cs /dotnetapp/
 
-RUN ls -lat
 EXPOSE 5000/tcp
 ENV ASPNETCORE_URLS http://*:5000
 

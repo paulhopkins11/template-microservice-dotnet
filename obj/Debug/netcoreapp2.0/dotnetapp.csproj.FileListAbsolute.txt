@@ -1,0 +1,4 @@
+/Users/paul_hopkins/development/template-microservice-dotnet/obj/Debug/netcoreapp2.0/dotnetapp.csprojResolveAssemblyReference.cache
+/Users/paul_hopkins/development/template-microservice-dotnet/obj/Debug/netcoreapp2.0/dotnetapp.csproj.CoreCompileInputs.cache
+/Users/paul_hopkins/development/template-microservice-dotnet/obj/Debug/netcoreapp2.0/dotnetapp.AssemblyInfoInputs.cache
+/Users/paul_hopkins/development/template-microservice-dotnet/obj/Debug/netcoreapp2.0/dotnetapp.AssemblyInfo.cs

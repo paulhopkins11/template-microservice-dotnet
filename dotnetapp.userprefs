@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{36CC7FEC-FF61-41DB-9139-73F52142077E}|Default">
+  <MonoDevelop.Ide.ItemProperties.dotnetapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnetapp-test/UnitTest1.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="13" Column="10" />
+      <File FileName="dotnetapp-test/UnitTest1.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="dotnetapp" expanded="True">
+            <Node name="dotnetapp-test" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
